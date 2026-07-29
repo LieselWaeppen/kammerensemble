@@ -1,17 +1,17 @@
-title: Pfinztaler Barockkonzerte
+title: Kammerensemble Neureut
 markdown: kramdown
-baseurl: '/barockensemble'
-permalink: /barockensemble/blog/:year/:month/:day/:title
-place: 'Ev. Kirche Söllingen (Pfinztal)'
-events: 'Zelenka und Händel: 17., 23. und 24. April'
-street: 'Kirchhofstraße 28'
-zipTown: '76327 Pfinztal'
+baseurl: '/kammerensemble'
+permalink: /kammerensemble/blog/:year/:month/:day/:title
+place: 'St. Judas Thaddäus (Neureut)'
+events: 'Musik zum 4. Advent am 19. Dezember 2026'
+street: ''
+zipTown: ''
 latitude: 48.9855557
 longitude: 8.5401293
 prose:
   rooturl: '_includes'
-  siteurl: 'http://lieselwaeppen.github.io/barockensemble/'
-  relativeLinks: 'http://lieselwaeppen.github.io/barockensemble/links.jsonp'
+  siteurl: 'http://lieselwaeppen.github.io/kammerensemble/'
+  relativeLinks: 'http://lieselwaeppen.github.io/kammerensemble/links.jsonp'
   media: 'img'
   ignore:
     - index.md
